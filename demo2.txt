@@ -1,3 +1,3 @@
 Base branch to commit to main
 asking for pull request
-status request
+checking status
